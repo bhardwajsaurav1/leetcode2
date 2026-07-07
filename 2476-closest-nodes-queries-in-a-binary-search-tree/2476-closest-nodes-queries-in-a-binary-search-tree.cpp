@@ -31,21 +31,21 @@ public:
         int n=inorder.size();
         int low=0;
         int high=n-1;
-        int index=-1;
+        int mini=-1;
+        int maxi=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(inorder[mid]==val) return {inorder[mid],inorder[mid]};
             else if(inorder[mid]<val){
-                index=mid;
+                mini=inorder[mid];
                 low=mid+1;
             }
             else {
+                maxi=inorder[mid];
                 high=mid-1;
             }
         }
-        if(index==-1) return {-1,inorder[0]};
-        else if(index==n-1) return {inorder[index],-1};
-        else return {inorder[index],inorder[index+1]};
+       return{mini, maxi};
     }
     vector<vector<int>> closestNodes(TreeNode* root, vector<int>& queries) {
         int n=queries.size();
