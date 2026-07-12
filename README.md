@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0232-implement-queue-using-stacks) |
 | [1006-clumsy-factorial](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1006-clumsy-factorial) |
 ## Simulation
 |  |
@@ -72,8 +73,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
