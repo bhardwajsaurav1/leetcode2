@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0232-implement-queue-using-stacks) |
 | [1006-clumsy-factorial](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1006-clumsy-factorial) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -54,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Array
