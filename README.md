@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Two Pointers
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0232-implement-queue-using-stacks) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
