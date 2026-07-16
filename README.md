@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1006-clumsy-factorial) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhardwajsaurav1/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1006-clumsy-factorial) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhardwajsaurav1/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -76,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhardwajsaurav1/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhardwajsaurav1/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -99,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhardwajsaurav1/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhardwajsaurav1/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
