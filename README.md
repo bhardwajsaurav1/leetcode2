@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
@@ -126,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
