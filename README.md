@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0078-subsets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0078-subsets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
