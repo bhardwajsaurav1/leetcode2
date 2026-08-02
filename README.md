@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0014-longest-common-prefix) |
+| [0091-decode-ways](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0091-decode-ways) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
