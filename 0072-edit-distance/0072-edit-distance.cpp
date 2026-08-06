@@ -1,7 +1,7 @@
 class Solution {
 public:
     int dp[501][501];
-    int solve(string s, string t, int m, int n){
+    int solve(string &s, string &t, int m, int n){
         if(m==0){
             return n;
         }
