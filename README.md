@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Array
@@ -148,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0091-decode-ways) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
