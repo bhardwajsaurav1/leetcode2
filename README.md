@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0994-rotting-oranges) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhardwajsaurav1/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
