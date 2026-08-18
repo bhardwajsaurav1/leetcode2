@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
+| [0542-01-matrix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0542-01-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0994-rotting-oranges) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -159,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0091-decode-ways) |
+| [0542-01-matrix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0994-rotting-oranges) |
 ## Topological Sort
 |  |
