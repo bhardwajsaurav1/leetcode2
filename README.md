@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0542-01-matrix) |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
