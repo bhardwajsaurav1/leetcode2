@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/bhardwajsaurav1/leetcode2/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1765-map-of-highest-peak) |
@@ -186,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/bhardwajsaurav1/leetcode2/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -212,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0127-word-ladder) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
