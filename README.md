@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0232-implement-queue-using-stacks) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0091-decode-ways) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
