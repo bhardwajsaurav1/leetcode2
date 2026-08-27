@@ -2,7 +2,7 @@ class MyQueue {
 public:// will perform amortised 0(1) time complexity;
     stack<int>st1;
     stack<int>st2;
-    int ele=-1;// it will take care of peak element and will reduce the tc of peak to 0(1);
+    int ele;// it will take care of peak element and will reduce the tc of peak to 0(1);
     MyQueue() {
         
     }
