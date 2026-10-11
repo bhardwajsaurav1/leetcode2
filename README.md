@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0542-01-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0994-rotting-oranges) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhardwajsaurav1/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
