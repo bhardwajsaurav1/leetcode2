@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0345-reverse-vowels-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhardwajsaurav1/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
