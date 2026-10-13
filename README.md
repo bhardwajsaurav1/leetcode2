@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sliding Window
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhardwajsaurav1/leetcode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhardwajsaurav1/leetcode2/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
